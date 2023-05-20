@@ -13,7 +13,7 @@ or [here](https://manual.gromacs.org/current/how-to/topology.html).
 
 The program is run from the terminal with the following arguments:
 ```
-python mol2_atoms_unique.py input
+python itp2rtp.py input
 ```
 
 Positional arguments:<br />
