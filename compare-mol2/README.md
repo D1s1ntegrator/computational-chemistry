@@ -7,7 +7,7 @@ This program compares molecule geometry parameters based on the bond configurati
 
 The program is run from the terminal with the following arguments:
 ```
-python mol2_atoms_unique.py input_a input_b
+python compare_mol2.py input_a input_b
 ```
 
 Positional arguments:<br />
